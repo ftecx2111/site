@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Accessories &#8211; Dopeboy</title>
+	<atom:link href="http://localhost/site/product-category/accessories/feed/" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>A moda que combina com você</description>
+	<lastBuildDate>Sat, 02 Jan 2021 06:31:15 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>Women Diamond Watch</title>
+		<link>./../../../product/women-diamond-watch/index.html</link>
+					<comments>./../../../product/women-diamond-watch/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Tue, 30 Jul 2019 05:39:28 +0000</pubDate>
+				<guid isPermaLink="false">https://demo.themefarmer.com/newstore/product/import-placeholder-for-60/</guid>
+
+					<description><![CDATA[This is a simple product.]]></description>
+										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../product/women-diamond-watch/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Women Hand Bracelet</title>
+		<link>./../../../product/hoodie-with-zipper/index.html</link>
+					<comments>./../../../product/hoodie-with-zipper/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Tue, 30 Jul 2019 05:39:28 +0000</pubDate>
+				<guid isPermaLink="false">https://demo.themefarmer.com/newstore/product/import-placeholder-for-66/</guid>
+
+					<description><![CDATA[This is a simple product.]]></description>
+										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../product/hoodie-with-zipper/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Women Hand Bracelet</title>
+		<link>./../../../product/women-hand-bracelet/index.html</link>
+					<comments>./../../../product/women-hand-bracelet/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Tue, 30 Jul 2019 05:39:27 +0000</pubDate>
+				<guid isPermaLink="false">https://demo.themefarmer.com/newstore/product/import-placeholder-for-44/</guid>
+
+					<description><![CDATA[This is a variable product.]]></description>
+										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../product/women-hand-bracelet/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
